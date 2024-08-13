@@ -13,11 +13,5 @@ the output will be :
 - printing the BFS(breath first search) and DFS (depth first search ) traversal starting from a specific vertex.
 - printing the shortest path between two vertices using Dijkstra algorithm in addition into path to reach into targeted vertex.
 
-## Frame Screenshot
 
-![](screenshot.JPG) 
-
-## video explanation
-
-https://www.youtube.com/watch?v=tOJnOnJQSGA
 
